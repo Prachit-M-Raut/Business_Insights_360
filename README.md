@@ -51,6 +51,6 @@ Business_Insights_360_Finance_View.png {https://github.com/Prachit-M-Raut/Busine
 
 Business_Insights_360_Sales_View.png (https://github.com/Prachit-M-Raut/Business_Insights_360/blob/main/Business_Insights_360_Sales_View.png)
 
-Business_Insights_360_Marketing_View.png
+Business_Insights_360_Marketing_View.png {https://github.com/Prachit-M-Raut/Business_Insights_360/blob/main/Business_Insights_360_Sales_View.png}
 
 Business_Insights_360_Supply_Chain_View.png
