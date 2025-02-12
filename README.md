@@ -45,7 +45,7 @@ Deployment: Exploring Power BI service or an embedded solution for live interact
 
 📂 Project Files
 
-Business_Insights_360_Home_Page.png
+Business_Insights_360_Home_Page.png (https://github.com/Prachit-M-Raut/Business_Insights_360/blob/main/Business_Insights_360_Finance_View.png)
 
 Business_Insights_360_Finance_View.png
 
