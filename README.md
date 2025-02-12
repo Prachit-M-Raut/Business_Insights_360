@@ -1,22 +1,38 @@
 # Business_Insights_360
 
-📌 Project Overview
+**📌 Project Overview**
 
 The Business Insights 360 Dashboard is a comprehensive Power BI report designed for AtliQ Hardwares. It provides valuable insights into key business domains such as Finance, Sales, Marketing, and Supply Chain. The dashboard enables data-driven decision-making by presenting interactive visualizations and KPIs for performance tracking.
 
-🔍 Key Features
+**🔍 Key Features**
 
-Finance View: Tracks revenue, expenses, profit margins, and financial health metrics.
 
-Sales View: Provides insights into total sales, region-wise performance, product trends, and customer segmentation.
+1. Finance View 💰
+Tracks total revenue, expenses, and profit margins over different time periods.
+Provides insights into cash flow trends and financial stability metrics.
+Helps in identifying cost-saving opportunities and profit drivers.
 
-Marketing View: Evaluates campaign effectiveness, customer acquisition cost, and ROI on marketing strategies.
+2. Sales View 📈
+Displays total sales performance with region-wise and product-wise breakdowns.
+Highlights top-selling products, customer segmentation, and seasonal trends.
+Helps businesses identify sales opportunities and optimize pricing strategies.
 
-Supply Chain View: Monitors inventory levels, supplier performance, and logistics efficiency.
+3. Marketing View 🎯
+Analyzes marketing campaign effectiveness based on engagement, conversions, and ROI.
+Tracks customer acquisition costs (CAC) and return on investment (ROI).
+Provides insights into customer behavior patterns and brand outreach success.
 
-Interactive Filters: Users can drill down by time period, region, and category for deeper insights.
+4. Supply Chain View 🚚
+Monitors inventory levels, supplier performance, and logistics efficiency.
+Helps in identifying bottlenecks in the supply chain and optimizing procurement.
+Provides real-time visibility into order fulfillment rates and demand planning.
 
-🛠 Tools & Technologies Used
+5. Interactive Filters 🔄
+Users can apply dynamic filters to analyze data across different time periods, regions, and categories.
+Enables customized reporting to focus on specific business insights.
+Improves decision-making with real-time drill-down capabilities.
+
+**🛠 Tools & Technologies Used**
 
 Power BI: For data visualization and dashboard creation.
 
@@ -25,7 +41,7 @@ SQL: To extract, transform, and load (ETL) data.
 Excel: For initial data cleaning and formatting.
 
 
-📊 How to Use the Dashboard
+**📊 How to Use the Dashboard**
 
 Navigate through the different tabs: Home, Finance, Sales, Marketing, Supply Chain.
 
@@ -43,7 +59,8 @@ Enhancements: Implementing predictive analytics for revenue forecasting.
 
 Deployment: Exploring Power BI service or an embedded solution for live interaction.
 
-📂 Project Files
+
+**📂 Project Files**
 
 Business_Insights_360_Home_Page.png (https://github.com/Prachit-M-Raut/Business_Insights_360/blob/main/Business_Insights_360_Finance_View.png)
 
